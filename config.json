@@ -1,0 +1,11 @@
+{
+    "sana_api": {
+        "base_url": "https://api.sana.ai",
+        "access_token": "your-sana-access-token"
+    },
+    "scrive_api": {
+        "base_url": "https://api.scrive.com",
+        "access_token": "your-scrive-access-token"
+    },
+    "teacher_email": "teacher@example.com"
+} 
